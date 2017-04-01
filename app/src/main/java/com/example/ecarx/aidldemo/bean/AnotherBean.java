@@ -5,4 +5,5 @@ package com.example.ecarx.aidldemo.bean;
  */
 
 public class AnotherBean {
+    String name;
 }
