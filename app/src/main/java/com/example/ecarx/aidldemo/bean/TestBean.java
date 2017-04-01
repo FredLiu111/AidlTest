@@ -10,5 +10,5 @@ public class TestBean {
     private String name;
     private int age;
     private List testlist;
-    private String pass;
+    private String password;
 }
