@@ -5,5 +5,6 @@ package com.example.ecarx.aidldemo.bean;
  */
 
 public class TestBean {
-    String name;
+    private String name;
+    private int age;
 }
