@@ -8,7 +8,7 @@ import java.util.List;
 
 public class TestBean {
 
-    public String newName;
+    public String myName;
     private String name;
     private int age;
     private List testlist;
